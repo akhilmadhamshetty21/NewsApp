@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InClass06</string>
+    <string name="news_key">b2076162ddf947bf82798625bf32b03f</string>
+    <string name="stringGo">Select</string>
+    <string name="Description">Description</string>
+    <string name="newstitle">News Title</string>
+    <string name="createddate">Creation Date</string>
+    <string-array name="categories_array">
+        <item>business</item>
+        <item>entertainment</item>
+        <item>general</item>
+        <item>health</item>
+        <item>science</item>
+        <item>sports</item>
+        <item>technology</item>
+    </string-array>
+</resources>
